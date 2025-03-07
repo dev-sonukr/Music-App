@@ -1,42 +1,43 @@
-🎵 Music Streaming App 🎵
+# 📱 🎵 Music Streaming App 🎵 (Kotlin)  
 
-A modern Android music streaming app using Deezer API, Retrofit, and RecyclerView.
+## 🚀 Overview  
+This is a **Music Streaming App** built using **Kotlin** for Android development. The app allows users to browse and play songs using the** Deezer API** while offering a seamless **music experience** with a well-designed UI.
 
-🔗 GitHub Repository: Music-App
+Through this project, I learned API integration, Retrofit, RecyclerView, and UI design in Android development.  
 
-📌 Features
-✅ Fetch and display songs using Deezer API
-✅ Play and pause music with an intuitive UI
-✅ Retrofit for efficient API calls
-✅ RecyclerView for smooth song list display
-✅ Clean XML UI design with material components
-✅ Optimized for performance and user experience
+## ✨ Features  
+✅ **Fetch & Display Songs** – Uses Deezer API for real-time music data 
 
-🚀 Technologies Used
-Language: Kotlin / Java
-Networking: Retrofit + Deezer API
-UI Components: RecyclerView, CardView, Material Design
-Media Playback: MediaPlayer / ExoPlayer
+✅ **Play & Pause Music** – Interactive media controls
+
+✅ **RecyclerView Integration** – Smooth and dynamic song list display
+
+✅ **Retrofit for API Calls** – Efficient and optimized data fetching
+
+✅ **Material UI Design** – Clean and modern user experience  
+
+## 🛠️ Technologies Used  
+- **Kotlin**
+- **Retrofit (API Calls)**
+- **RecyclerView**
+- **XML for UI Design**
+- **MediaPlayer for Audio Playback**
+
+## 📸 Screenshots 
+   ![Image](https://github.com/user-attachments/assets/0773aa8e-dcf5-4806-935b-4d42fa52db7e)
+
+## 📥 Installation  
+1. Clone this repository:  
+   git clone https://github.com/dev-sonukr/Music-App.git
+2. Open the project in Android Studio.
+3. Build and run the app on an Android emulator or physical device.
 
 
-📸 Screenshots
-![Image](https://github.com/user-attachments/assets/9eeab6ed-92d7-4473-9f32-d1772903aa1e)
 
+## 🔥 Future Improvements
+- **Add search functionality 🔍**
+- **Implement user authentication 🔑**
+- **Improve UI/UX for a better experience 🎨**
 
-🛠️ Setup & Installation
-Clone this repository:
-git clone https://github.com/dev-sonukr/Music-App.git
-cd Music-App
-Open the project in Android Studio.
-Build and run the app on an Android emulator or physical device.
-
-🔥 Future Improvements
-Add search functionality 🔍
-Implement user authentication 🔑
-Improve UI/UX for a better experience 🎨
-
-🤝 Contributing
-Feel free to fork this repository and submit a pull request! Let's build something amazing together.
-
-📬 Contact
-If you have any suggestions or feedback, connect with me on LinkedIn or open an issue!
+## 🤝 Contributing
+  Feel free to fork this repository and submit a pull request! Let's build something amazing together.
